@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25008.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowDecider", "FlowDecider\FlowDecider.csproj", "{8F0BF86D-2D89-4061-ABAA-592FA89F9BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowShared", "FlowShared\FlowShared.csproj", "{20784CDD-4945-4606-A076-0907905C6277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowCore", "FlowCore\FlowCore.csproj", "{D29BFE1C-E14E-45F0-B758-3A066FB1C250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0BF86D-2D89-4061-ABAA-592FA89F9BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0BF86D-2D89-4061-ABAA-592FA89F9BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0BF86D-2D89-4061-ABAA-592FA89F9BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0BF86D-2D89-4061-ABAA-592FA89F9BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20784CDD-4945-4606-A076-0907905C6277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20784CDD-4945-4606-A076-0907905C6277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20784CDD-4945-4606-A076-0907905C6277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20784CDD-4945-4606-A076-0907905C6277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29BFE1C-E14E-45F0-B758-3A066FB1C250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29BFE1C-E14E-45F0-B758-3A066FB1C250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29BFE1C-E14E-45F0-B758-3A066FB1C250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29BFE1C-E14E-45F0-B758-3A066FB1C250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
